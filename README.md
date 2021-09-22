@@ -1,4 +1,4 @@
-ummary: <br>data processing with SQLAlchemy
+# Summary: <br>data processing with SQLAlchemy
 
 <p>
 The first part of this project SQLAlchemy is used to import the database data with the Sqlite adapter into Pandas dataframes. Several methods for this purpose are explored. The second part of this 
